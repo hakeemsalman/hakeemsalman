@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, My name is Salman Hakeem
 
-<!--
-**SNIPACER/snipacer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=snipacer)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
+- :sunglasses: Working as a Salesforce Developer
+- :seedling: I’m currently learning MERN,Java,DSA
+- 🔭 I’m currently working on Meshery
+- 📫 How to reach me: **@snipacer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=snipacer&label=Profile%20views&color=0e75b6&style=flat" alt="gaurab-khanal" /> </p>)
+
+---
+## Status
+
+![https://github-readme-stats.vercel.app/api?username=snipacer&show_icons=true&locale=en](snipacer)
+
+![https://github-readme-streak-stats.herokuapp.com/?user=snipacer](snipacer)
+
