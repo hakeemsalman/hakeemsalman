@@ -12,7 +12,9 @@
 ---
 ## Status
 
-![https://github-readme-stats.vercel.app/api?username=snipacer&show_icons=true&locale=en](snipacer)
+![https://github-readme-stats.vercel.app/api/top-langs?username=snipacer&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=snipacer&show_icons=true&locale=en&layout=compact)
 
-![https://github-readme-streak-stats.herokuapp.com/?user=snipacer](snipacer)
+![https://github-readme-stats.vercel.app/api?username=snipacer&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=snipacer&show_icons=true&locale=en)
+
+![https://github-readme-streak-stats.herokuapp.com/?user=snipacer](https://github-readme-streak-stats.herokuapp.com/?user=snipacer)
 
