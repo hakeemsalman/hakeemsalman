@@ -4,7 +4,6 @@
 
 - :sunglasses: Working as a Salesforce Developer
 - :seedling: I’m currently learning MERN,Java,DSA
-- 🔭 I’m currently contributing open source on Meshery
 - 📫 How to reach me: **@snipacer**
 
 [comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=snipacer&label=Profile%20views&color=0e75b6&style=flat" alt="gaurab-khanal" /> </p>)
