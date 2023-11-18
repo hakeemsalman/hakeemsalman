@@ -3,8 +3,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hakeemsalman)](https://github.com/ryo-ma/github-profile-trophy)
 
 - :sunglasses: Working as a Salesforce Developer
-- :seedling: I’m currently learning MERN,Java,DSA
-- 📫 How to reach me: **@snipacer**
+- :seedling: I’m currently learning React JS
+- 📫 How to reach me: **@hakeemsalman**
 
 [comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakeemsalman&label=Profile%20views&color=0e75b6&style=flat" alt="hakeem-salman" /> </p>)
 
