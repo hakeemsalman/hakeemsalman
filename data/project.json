@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "cover-photo-url": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Todo List",
+    "description": "Build a task manager where you can easily add, view, edit, and remove tasks.",
+    "tech": [
+      "ReactJS",
+      "SCSS"
+    ],
+    "link-url": "#",
+    "github-url": "/contact"
+  },
+  {
+    "id": 2,
+    "cover-photo-url": "https://images.unsplash.com/photo-1704908444101-892ee1daa1b5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Start Up",
+    "description": "Design a polished startup website with a simple, clean layout, blending simplicity and elegance for a compelling online presence.",
+    "tech": [
+      "html",
+      "css",
+      "javaScript"
+    ],
+    "link-url": "https://kaleidoscopic-praline-61383c.netlify.app/",
+    "github-url": "/contact"
+  },
+  {
+    "id": 3,
+    "cover-photo-url": "https://images.unsplash.com/photo-1704485351547-a0a9893031f7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Zantic",
+    "description": "Create a vibrant and visually engaging web design by incorporating lively colors and playful elements, ensuring a cool and dynamic user experience that captivates and delights.",
+    "tech": [
+      "html",
+      "css",
+      "javaScript"
+    ],
+    "link-url": "https://effervescent-sorbet-2becc5.netlify.app/",
+    "github-url": "/contact"
+  }
+]
