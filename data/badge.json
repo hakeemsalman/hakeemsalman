@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "cover-photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/sf_pd1_badge.png",
+    "title": "Salesforce PD 1"
+  },
+  {
+    "id": 2,
+    "cover-photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/sf_associate_badge.png",
+    "title": "Salesforce Associate"
+  },
+  {
+    "id": 3,
+    "cover-photo-url": "https://d33wubrfki0l68.cloudfront.net/2f7693e1933ac514c960f51ceae72c91c6716eb2/b2efd/img/fcc_primary_small.svg",
+    "title": "FreeCodeCamp Res. Web Design"
+  },
+  {
+    "id": 4,
+    "cover-photo-url": "/tech/aws.svg",
+    "title": "AWS Cloud Practioner"
+  },
+  {
+    "id": 5,
+    "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Linux_Foundation_logo_2013.svg/400px-Linux_Foundation_logo_2013.svg.png",
+    "title": "Green Software",
+  },
+  {
+    "id": 6,
+    "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/400px-Salesforce.com_logo.svg.png",
+    "title": "Saleforce Copado"
+  },
+  {
+    "id": 7,
+    "cover-photo-url": "https://media.licdn.com/dms/image/C510BAQFAzW-qZTFDWg/company-logo_200_200/0/1630634906986?e=1715817600&v=beta&t=zAdXrKF_PHD2xckdfJcvIDJvrlm8kLoggsLwSsOW0kE",
+    "title": "RataType Silver"
+  }
+]
