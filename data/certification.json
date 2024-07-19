@@ -25,6 +25,14 @@
   },
   {
     "id": 7,
+    "photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/js_basics.jpg"
+  },
+  {
+    "id": 8,
+    "photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/css_basics.jpg"
+  },
+  {
+    "id": 9,
     "photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/ratatyping_silver_cert.png"
   }
 ]
