@@ -31,6 +31,16 @@
   },
   {
     "id": 7,
+    "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png",
+    "title": "Hackerrank Javascript"
+  },
+  {
+    "id": 8,
+    "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png",
+    "title": "Hackerrank CSS"
+  },
+  {
+    "id": 9,
     "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ratatype.png/320px-Ratatype.png",
     "title": "RataType Silver"
   }
