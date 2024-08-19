@@ -43,5 +43,10 @@
     "id": 9,
     "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ratatype.png/320px-Ratatype.png",
     "title": "RataType Silver"
+  },
+  {
+  "id":10,
+  "cover-photo-url":"",
+  "title":"Google Cloud Platform"
   }
 ]
