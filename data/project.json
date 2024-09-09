@@ -61,5 +61,18 @@
     ],
     "link-url": "https://effervescent-sorbet-2becc5.netlify.app/",
     "github-url": "/contact"
+  },
+  {
+    "id": "240a2790-67ae-4bb4-b6dd-4c152319fe2d",
+    "cover-photo-url": "https://raw.githubusercontent.com/hakeemsalman/calculator/main/assets/images/screenshot.png",
+    "title": "Calculator",
+    "description": "A Calculator which performs task smooth and adjust any device screen. In future release, also logs history calculations.",
+    "tech": [
+      "html",
+      "SCSS",
+      "javaScript"
+    ],
+    "link-url": "https://hakeemsalman.github.io/calculator/",
+    "github-url": "https://github.com/hakeemsalman/calculator"
   }
 ]
