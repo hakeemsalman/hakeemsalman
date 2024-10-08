@@ -56,6 +56,8 @@
 
 <img src="https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/output/snake.svg" alt="Snake animation" />
 
-###
+<div align="center">
+  
 ![https://github-readme-streak-stats.herokuapp.com/?user=snipacer](https://github-readme-streak-stats.herokuapp.com/?user=hakeemsalman)
 
+</div>
