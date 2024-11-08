@@ -1,6 +1,6 @@
 <h1 align="left"> Hi 👋! My name is Salman Hakeem</h1>
   
-- 😎 Front end Developer || Salesforce Developer
+- 😎 Front end Developer || Software Engineer
 - 🌱 Exploring Full-stack development | enthusiast in Gen AI
 - 📫 How to reach me: @hakeemsalman
 
@@ -58,6 +58,6 @@
 
 <div align="center">
   
-![https://github-readme-streak-stats.herokuapp.com/?user=snipacer](https://github-readme-streak-stats.herokuapp.com/?user=hakeemsalman)
+![https://github-readme-streak-stats.herokuapp.com/?user=hakeemsalman](https://github-readme-streak-stats.herokuapp.com/?user=hakeemsalman)
 
 </div>
