@@ -1,7 +1,7 @@
 <h1 align="left"> Hi 👋! My name is Salman Hakeem</h1>
   
 - 😎 Front end Developer || Software Engineer
-- 🌱 Exploring Full-stack development | enthusiast in Gen AI
+- 🌱 Exploring front end development | enthusiast in Gen AI
 - 📫 How to reach me: @hakeemsalman
 
 ###
