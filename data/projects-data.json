@@ -1,0 +1,61 @@
+data: [
+      {
+        title: "Start Up Landing Page",
+        description: "A modern polished startup website with a simple, clean layout, blending simplicity and elegance for a compelling online presence.",
+        video: "/videos/start-up-landing-page.mp4",
+        tag: "Static",
+        url: "/projects/start-up-landing-page",
+        poster: "/images/start-up-landing-page.png",
+        id: uuidv4()
+      },
+      {
+        title: "Admin Dashboard",
+        description: "Design a polished admin dashboard with a dark UI layout, blending simplicity and elegance for a smooth user experience.",
+        url: "https://admin-dashboard-hakeem.vercel.app/",
+        tag: "Dashboard",
+        video: "/videos/admin-dashboard.mp4",
+        poster: "/images/admin-dashboard.png",
+        codeUrl: "gitlab.com/hakeemsalman/admin-cmd-dashboard",
+        id: uuidv4()
+      },
+      {
+        title: "TubeMellow",
+        description: "TubeMellow is an open-source Chrome extension designed to enhance your YouTube browsing experience.",
+        url: "https://chromewebstore.google.com/detail/tube-mellow/fgflinjcolmfjdkilakkcgennlkhgkgh",
+        tag: "Extension",
+        video: "/videos/tubemellow-walkthrough.mp4",
+        poster: "/images/tubemellow-poster.png",
+        codeUrl: "github.com/hakeemsalman/tubemellow",
+        id: uuidv4()
+      },
+      {
+        title: "Zantic",
+        description: "Create a vibrant and visually engaging web design by incorporating lively colors and playful elements, ensuring a cool and dynamic user experience that captivates and delights.",
+        url: "https://zantic-page.vercel.app/",
+        tag: "Static",
+        video: "/videos/zantic-page.mp4",
+        poster: "/images/zantic-page.png",
+        codeUrl: "gitlab.com/hakeemsalman/zantic-page",
+        id: uuidv4()
+      },
+      {
+        title: "Prayer Time Zone",
+        description: "A React and TypeScript app that shows daily prayer times based on location. Features live current time, dynamic updates, and manual location selection. Integrates with the Aladhan API",
+        url: "https://prayer-time-zone.vercel.app/",
+        tag: "Time zone",
+        video: "/videos/prayer-time-zone.webm",
+        poster: "/images/prayer-time-zone.png",
+        codeUrl: "gitlab.com/hakeemsalman/prayer-time-zone",
+        id: uuidv4()
+      },
+      {
+        title: "Calculator",
+        description: "A Simple basic Calculator which performs task smooth and adjust any device screen device.",
+        url: "https://hakeemsalman.github.io/calculator/",
+        tag: "static",
+        video: "/videos/calculator.webm",
+        poster: "/images/calculator.png",
+        codeUrl: "github.com/hakeemsalman/calculator",
+        id: uuidv4()
+      }
+    ]
