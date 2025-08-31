@@ -12,7 +12,7 @@
     },
     {
       "id": 3,
-      "cover-photo-url": "https://d33wubrfki0l68.cloudfront.net/2f7693e1933ac514c960f51ceae72c91c6716eb2/b2efd/img/fcc_primary_small.svg",
+      "cover-photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/fcc_primary_small.png",
       "title": "FreeCodeCamp Res. Web Design"
     },
     {
@@ -22,32 +22,32 @@
     },
     {
       "id": 5,
-      "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Linux_Foundation_logo_2013.svg/400px-Linux_Foundation_logo_2013.svg.png",
+      "cover-photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/linux_foundation_logo_2013.png",
       "title": "Green Software"
     },
     {
       "id": 6,
-      "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/400px-Salesforce.com_logo.svg.png",
+      "cover-photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/salesforce_logo.svg",
       "title": "Saleforce Copado"
     },
     {
       "id": 7,
-      "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png",
+      "cover-photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/hacker_rank.png",
       "title": "Hackerrank Javascript"
     },
     {
       "id": 8,
-      "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png",
+      "cover-photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/hacker_rank.png",
       "title": "Hackerrank CSS"
     },
     {
       "id": 9,
-      "cover-photo-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ratatype.png/320px-Ratatype.png",
+      "cover-photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/ratatype_logo.svg",
       "title": "RataType Silver"
     },
     {
       "id": 10,
-      "cover-photo-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTY6KtRF4YiS9M6VIg7fljLqppoPbJ-mrLw&s",
+      "cover-photo-url": "https://raw.githubusercontent.com/hakeemsalman/hakeemsalman/main/data/portfolio%20data/gcp.png",
       "title": "Google Cloud Platform"
     }
   ]
