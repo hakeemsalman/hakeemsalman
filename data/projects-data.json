@@ -5,7 +5,7 @@
       "description": "A modern polished startup website with a simple, clean layout, blending simplicity and elegance for a compelling online presence.",
       "video": "/videos/start-up-landing-page.mp4",
       "tag": "Static",
-      "url": "/projects/start-up-landing-page",
+      "url": "/projects/landing-page",
       "poster": "/images/start-up-landing-page.png",
       "id": "1"
     },
@@ -32,7 +32,7 @@
     {
       "title": "Zantic",
       "description": "Create a vibrant and visually engaging web design by incorporating lively colors and playful elements, ensuring a cool and dynamic user experience that captivates and delights.",
-      "url": "https://zantic-page.vercel.app/",
+      "url": "/projects/zantic-page",
       "tag": "Static",
       "video": "/videos/zantic-page.mp4",
       "poster": "/images/zantic-page.png",
@@ -50,6 +50,16 @@
       "id": "5"
     },
     {
+      "title": "E Commerce",
+      "description": "Simple E commerce website where products are displayed",
+      "url": "/projects/ecommerce",
+      "tag": "Static",
+      "video": "/ecommerce.webm",
+      "poster": "/images/ecommerce.png",
+      "codeUrl": "gitlab.com/hakeemsalman/",
+      "id": "6"
+    },
+    {
       "title": "Calculator",
       "description": "A Simple basic Calculator which performs task smooth and adjust any device screen device.",
       "url": "https://hakeemsalman.github.io/calculator/",
@@ -57,7 +67,7 @@
       "video": "/videos/calculator.webm",
       "poster": "/images/calculator.png",
       "codeUrl": "github.com/hakeemsalman/calculator",
-      "id": "6"
+      "id": "7"
     }
   ]
 }
