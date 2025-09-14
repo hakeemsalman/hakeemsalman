@@ -54,7 +54,7 @@
       "description": "Simple E commerce website where products are displayed",
       "url": "/projects/ecommerce",
       "tag": "Static",
-      "video": "/ecommerce.webm",
+      "video": "/videos/ecommerce.webm",
       "poster": "/images/ecommerce.png",
       "codeUrl": "gitlab.com/hakeemsalman/",
       "id": "6"
