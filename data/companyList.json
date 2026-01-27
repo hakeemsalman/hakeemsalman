@@ -1,0 +1,281 @@
+[
+  {
+    "A": [
+      {
+        "name": "Hiring Team",
+        "company": "Accenture",
+        "email_address": "campus.recruitment@accenture.com"
+      },
+      {
+        "name": "Talent Acquisition",
+        "company": "Accolite Digital",
+        "email_address": "careers@accolitedigital.com"
+      },
+      {
+        "name": "HR Team",
+        "company": "Accord Software",
+        "email_address": "careers@accord-soft.com"
+      },
+      {
+        "name": "University Talent Team",
+        "company": "Adobe",
+        "email_address": "university-talent@adobe.com"
+      },
+      {
+        "name": "Recruitment Team",
+        "company": "Able",
+        "email_address": "careers@able.do"
+      },
+      {
+        "name": "Hiring Team",
+        "company": "Abstract",
+        "email_address": "careers@abstract.com"
+      },
+      {
+        "name": "People Team",
+        "company": "Acko",
+        "email_address": "careers@acko.com"
+      },
+      {
+        "name": "Talent Team",
+        "company": "Accredible",
+        "email_address": "recruiting@accredible.com"
+      },
+      {
+        "name": "Hiring Team",
+        "company": "Activision Blizzard",
+        "email_address": "talentacquisition@activision.com"
+      },
+      {
+        "name": "Talent Acquisition",
+        "company": "Affinidi",
+        "email_address": "careers@affinidi.com"
+      },
+      {
+        "name": "HR Department",
+        "company": "Agile Solutions",
+        "email_address": "info@agilesolutions.com"
+      },
+      {
+        "name": "Human Capital",
+        "company": "Agnikul Cosmos",
+        "email_address": "humancapital@agnikul.in"
+      },
+      {
+        "name": "Recruitment",
+        "company": "Airbase",
+        "email_address": "careers@airbase.io"
+      },
+      {
+        "name": "Hiring Team",
+        "company": "Airbnb",
+        "email_address": "careers@airbnb.com"
+      },
+      {
+        "name": "India Recruitment",
+        "company": "Airbus",
+        "email_address": "recruitment.india@airbus.com"
+      },
+      {
+        "name": "Digital Careers",
+        "company": "Airtel X Labs",
+        "email_address": "digital.careers@airtel.com"
+      },
+      {
+        "name": "Talent Acquisition",
+        "company": "Ajio",
+        "email_address": "recruitment@ajio.com"
+      },
+      {
+        "name": "Global Careers",
+        "company": "Akamai",
+        "email_address": "careers@akamai.com"
+      },
+      {
+        "name": "Recruitment Team",
+        "company": "Alibaba Group",
+        "email_address": "careers@alibaba-inc.com"
+      },
+      {
+        "name": "India Recruiting",
+        "company": "Alstom",
+        "email_address": "recruiting.india@alstomgroup.com"
+      },
+      {
+        "name": "Hiring Team",
+        "company": "AlphaGrep",
+        "email_address": "careers@alpha-grep.com"
+      },
+      {
+        "name": "Talent Team",
+        "company": "Alphonso (LG Ads)",
+        "email_address": "careers@lgads.tv"
+      },
+      {
+        "name": "Recruitment Team",
+        "company": "Amadeus Labs",
+        "email_address": "recruitment@amadeus.com"
+      },
+      {
+        "name": "Hiring Team",
+        "company": "Amagi",
+        "email_address": "careers@amagi.com"
+      },
+      {
+        "name": "University Relations",
+        "company": "AMD",
+        "email_address": "amd.university.relations@amd.com"
+      },
+      {
+        "name": "India Campus Team",
+        "company": "Amazon",
+        "email_address": "campus-india@amazon.com"
+      },
+      {
+        "name": "India Careers",
+        "company": "Amdocs",
+        "email_address": "indiacareers@amdocs.com"
+      },
+      {
+        "name": "Talent Acquisition",
+        "company": "American Express",
+        "email_address": "careers@aexp.com"
+      },
+      {
+        "name": "HR Team",
+        "company": "Amway",
+        "email_address": "in.careers@amway.com"
+      },
+      {
+        "name": "Talent Acquisition",
+        "company": "Angel One",
+        "email_address": "careers@angelbroking.com"
+      },
+      {
+        "name": "HR India",
+        "company": "Analog Devices",
+        "email_address": "hr.india@analog.com"
+      },
+      {
+        "name": "Hiring Team",
+        "company": "Ansys",
+        "email_address": "careers@ansys.com"
+      },
+      {
+        "name": "Recruitment",
+        "company": "Apna",
+        "email_address": "careers@apna.co"
+      },
+      {
+        "name": "Talent Team",
+        "company": "AppDynamics (Cisco)",
+        "email_address": "jobs@appdynamics.com"
+      },
+      {
+        "name": "Crowd Success",
+        "company": "Appen",
+        "email_address": "careers@appen.com"
+      },
+      {
+        "name": "Talent Acquisition",
+        "company": "AppFolio",
+        "email_address": "careers@appfolio.com"
+      },
+      {
+        "name": "India Recruiting",
+        "company": "Apple",
+        "email_address": "india_recruiting@apple.com"
+      },
+      {
+        "name": "HR Team",
+        "company": "AppInventiv",
+        "email_address": "careers@appinventiv.com"
+      },
+      {
+        "name": "India Careers",
+        "company": "Applied Materials",
+        "email_address": "careers_india@amat.com"
+      },
+      {
+        "name": "Talent Acquisition",
+        "company": "Aptiv",
+        "email_address": "careers@aptiv.com"
+      },
+      {
+        "name": "Recruiting",
+        "company": "AQR Capital",
+        "email_address": "recruiting@aqr.com"
+      },
+      {
+        "name": "Hiring Team",
+        "company": "Arcesium",
+        "email_address": "careers@arcesium.com"
+      },
+      {
+        "name": "Recruiting Team",
+        "company": "Arista Networks",
+        "email_address": "recruiting@arista.com"
+      },
+      {
+        "name": "Hiring Team",
+        "company": "Aryaka Networks",
+        "email_address": "careers@aryaka.com"
+      },
+      {
+        "name": "HR Department",
+        "company": "Asteria Aerospace",
+        "email_address": "careers@asteria.co.in"
+      },
+      {
+        "name": "Talent Sourcing",
+        "company": "ASML",
+        "email_address": "campusrecruitment.us@asml.com"
+      },
+      {
+        "name": "Talent Acquisition",
+        "company": "Athena Health",
+        "email_address": "careers@athenahealth.com"
+      },
+      {
+        "name": "People Team",
+        "company": "Atlan",
+        "email_address": "people@atlan.com"
+      },
+      {
+        "name": "Recruitment",
+        "company": "Atlassian",
+        "email_address": "recruitment@atlassian.com"
+      },
+      {
+        "name": "Careers Team",
+        "company": "Automatic Data Processing (ADP)",
+        "email_address": "careers@adp.com"
+      },
+      {
+        "name": "Hiring Team",
+        "company": "Auzmor",
+        "email_address": "careers@auzmor.com"
+      },
+      {
+        "name": "Recruitment",
+        "company": "Avail Finance (Ola)",
+        "email_address": "careers@availfinance.in"
+      },
+      {
+        "name": "Hiring Team",
+        "company": "Avalara",
+        "email_address": "careers@avalara.com"
+      },
+      {
+        "name": "Recruitment",
+        "company": "Avaya",
+        "email_address": "careers@avaya.com"
+      },
+      {
+        "name": "Campus Recruitment",
+        "company": "Axis Bank",
+        "email_address": "campus.recruitment@axisbank.com"
+      }
+    ]
+  }
+]
